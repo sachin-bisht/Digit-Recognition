@@ -11,16 +11,16 @@ Want to know more about python-mnist : https://pypi.python.org/pypi/python-mnist
 
 
 ## Prerequisite :
-___Python 3
+___Python 3__
 
-_pip(Python Package Index) :
+_pip(Python Package Index) :_
 
 > $ sudo apt-get install python3-pip
 
-_mnist package :
+_mnist package :_
 
 > $ sudo pip3 install python-mnist
 
-_numpy package :
+_numpy package :_
 
 > $ sudo pip3 install numpy
