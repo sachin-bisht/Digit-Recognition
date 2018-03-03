@@ -11,7 +11,7 @@ Want to know more about python-mnist : https://pypi.python.org/pypi/python-mnist
 
 
 ## Prerequisite :
-___Python 3__
+___Python 3___
 
 _pip(Python Package Index) :_
 
