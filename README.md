@@ -24,3 +24,7 @@ _mnist package :_
 _numpy package :_
 
 > $ sudo pip3 install numpy
+
+__How to run :__
+
+Run driver.py
